@@ -21,7 +21,7 @@ Cursando Análise e Desenvolvimento de Sistemas e com dedicação contínua a cu
 ## 📂 Projetos em Destaque  
 
 🔹 [Crypto Commodities Pipeline](https://github.com/smlvinicius/crypto-commodities-pipeline)  
-🔹 [E-commerce Data Lakehouse](https://github.com/smlvinicius/ecommerce-lakehouse)  
+🔹 [Rick and Morty API ](https://github.com/smlvinicius/rick-and-morty-api)  
 
 
 ---
