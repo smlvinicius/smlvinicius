@@ -1,15 +1,15 @@
-# 👋 Seja Bem-vindo ao meu GitHub!
+#  Seja Bem-vindo ao meu GitHub!
 
 <img src="https://user-images.githubusercontent.com/74038190/212749447-b7f27e40-7a7a-4f89-b0f4-f1e09ef3a4d1.gif" width="100%" />
 
-## 🚀 Sobre mim  
+##  Sobre mim  
 Sou **Engenheiro de Dados Jr.** com foco em **Python, SQL e Big Data**.  
 Tenho me dedicado a cursos e projetos pessoais para desenvolver competências em:  
 - Engenharia de Dados  
 - Computação em Nuvem  
 - Processos ETL  
 
-💡 Autodidata, com excelente capacidade de **resolução de problemas** e **comunicação**.  
+Autodidata, com excelente capacidade de **resolução de problemas** e **comunicação**.  
 
 ---
 
@@ -31,7 +31,7 @@ Tenho me dedicado a cursos e projetos pessoais para desenvolver competências em
 
 ---
 
-## 📊 Estatísticas do GitHub  
+##  Estatísticas do GitHub  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=smlvinicius&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
