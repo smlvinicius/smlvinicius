@@ -3,11 +3,10 @@
 <img src="https://user-images.githubusercontent.com/74038190/212749447-b7f27e40-7a7a-4f89-b0f4-f1e09ef3a4d1.gif" width="100%" />
 
 Cursando Análise e Desenvolvimento de Sistemas e com dedicação contínua a cursos e projetos práticos em Python, SQL, Big Data e Engenharia de Dados. Tenho experiência em resolução de problemas, organização e análise de informações, além de interesse em aplicar meus conhecimentos em processos ETL, modelagem de dados e computação em nuvem. Sou uma pessoa autodidata, com forte motivação para aprender novas tecnologias e contribuir em projetos de Data Engineering e Analytics.
+
 - Engenharia de Dados  
 - Computação em Nuvem  
 - Processos ETL  
-
-Autodidata, com excelente capacidade de **resolução de problemas** e **comunicação**.  
 
 ---
 
