@@ -2,9 +2,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212749447-b7f27e40-7a7a-4f89-b0f4-f1e09ef3a4d1.gif" width="100%" />
 
-##  Sobre mim  
-Sou **Engenheiro de Dados Jr.** com foco em **Python, SQL e Big Data**.  
-Tenho me dedicado a cursos e projetos pessoais para desenvolver competências em:  
+Cursando Análise e Desenvolvimento de Sistemas e com dedicação contínua a cursos e projetos práticos em Python, SQL, Big Data e Engenharia de Dados. Tenho experiência em resolução de problemas, organização e análise de informações, além de interesse em aplicar meus conhecimentos em processos ETL, modelagem de dados e computação em nuvem. Sou uma pessoa autodidata, com forte motivação para aprender novas tecnologias e contribuir em projetos de Data Engineering e Analytics.
 - Engenharia de Dados  
 - Computação em Nuvem  
 - Processos ETL  
@@ -12,8 +10,6 @@ Tenho me dedicado a cursos e projetos pessoais para desenvolver competências em
 Autodidata, com excelente capacidade de **resolução de problemas** e **comunicação**.  
 
 ---
-
-## 🛠️ Tecnologias e Ferramentas  
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
