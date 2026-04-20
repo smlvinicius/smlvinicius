@@ -16,6 +16,7 @@ Cursando Análise e Desenvolvimento de Sistemas e com dedicação contínua a cu
 
 ## 📂 Projetos em Destaque  
 🔹 [Automação de relatório de Itens sem Venda](https://github.com/smlvinicius/automacao-estoque)
+🔹 [Prestadores de Serviços ETL](https://github.com/smlvinicius/prestadores-servicos-etl)
 🔹 [Crypto Commodities Pipeline](https://github.com/smlvinicius/crypto-commodities-pipeline)  
 🔹 [Rick and Morty API ](https://github.com/smlvinicius/rick-and-morty-api)  
 
