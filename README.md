@@ -1,4 +1,4 @@
-#  Seja Bem-vindo ao meu GitHub!# 👋 Olá, eu sou o Samuel Freitas!
+#  Seja Bem-vindo ao meu GitHub!
 
 <img src="https://user-images.githubusercontent.com/74038190/212749447-b7f27e40-7a7a-4f89-b0f4-f1e09ef3a4d1.gif" width="100%" />
 
