@@ -28,7 +28,10 @@ Projeto focado em coleta, tratamento e análise de dados para geração de insig
 
 ## Tecnologias e Ferramentas
 
-- Python (Pandas, Requests)  
+- Excel
+- Power Bi
+- Google Sheets
+- Python
 - SQL  
 - Git & GitHub  
 
