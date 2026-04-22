@@ -1,16 +1,42 @@
-#  Seja Bem-vindo ao meu GitHub!
+#  Seja Bem-vindo ao meu GitHub!# 👋 Olá, eu sou o Samuel Freitas!
 
 <img src="https://user-images.githubusercontent.com/74038190/212749447-b7f27e40-7a7a-4f89-b0f4-f1e09ef3a4d1.gif" width="100%" />
 
-Cursando Análise e Desenvolvimento de Sistemas e com dedicação contínua a cursos e projetos práticos em Python e SQL. Tenho experiência em resolução de problemas, organização e análise de informações, além de interesse em aplicar meus conhecimentos em processos ETL, modelagem de dados e computação em nuvem. Sou uma pessoa autodidata, com forte motivação para aprender novas tecnologias e contribuir em projetos de Data Engineering e Analytics.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+📊 Focado em Engenharia de Dados e Analytics  
+📍 Jacareí/SP  
 
 ---
 
+## 🚀 Sobre mim
+
+Sou estudante de Análise e Desenvolvimento de Sistemas com foco na área de dados, direcionando meus estudos para Engenharia de Dados e Analytics.
+
+Tenho conhecimento em Python e SQL, aplicando esses conceitos na prática através de projetos próprios, com foco em ETL, tratamento de dados e geração de insights.
+
+---
+
+## 💼 Experiência prática
+
+🔹 **Automação de processos no ambiente de trabalho**  
+Desenvolvi uma automação para otimizar tarefas operacionais do dia a dia, reduzindo atividades manuais e aumentando a eficiência dos processos.
+
+🔹 **Projeto de análise de restaurantes (em andamento)**  
+Projeto focado em coleta, tratamento e análise de dados para geração de insights, trabalhando com métricas de negócio e análise exploratória.
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+- Python (Pandas, Requests)  
+- SQL  
+- Git & GitHub  
+
+<img src="https://user-images.githubusercontent.com/74038190/212749447-b7f27e40-7a7a-4f89-b0f4-f1e09ef3a4d1.gif" width="100%" />
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
-![Big Data](https://img.shields.io/badge/Big%20Data-FF6F00?style=for-the-badge&logo=apache&logoColor=white)
 ![ETL](https://img.shields.io/badge/ETL-4B0082?style=for-the-badge&logo=databricks&logoColor=white)
-![Cloud](https://img.shields.io/badge/Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 ---
 
