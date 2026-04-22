@@ -8,7 +8,7 @@
 
 ---
 
-## 🚀 Sobre mim
+## Sobre mim
 
 Sou estudante de Análise e Desenvolvimento de Sistemas com foco na área de dados, direcionando meus estudos para Engenharia de Dados e Analytics.
 
@@ -16,7 +16,7 @@ Tenho conhecimento em Python e SQL, aplicando esses conceitos na prática atrav�
 
 ---
 
-## 💼 Experiência prática
+## Experiência prática
 
 🔹 **Automação de processos no ambiente de trabalho**  
 Desenvolvi uma automação para otimizar tarefas operacionais do dia a dia, reduzindo atividades manuais e aumentando a eficiência dos processos.
@@ -26,7 +26,7 @@ Projeto focado em coleta, tratamento e análise de dados para geração de insig
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
 
 - Python (Pandas, Requests)  
 - SQL  
